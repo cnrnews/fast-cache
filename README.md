@@ -9,11 +9,8 @@
 
 ## 使用
 
-- 使用文档
-* [如何使用](./doc/use/README.md)
-- 二次开发文档
-* [二次开发](./doc/dev/README.md)
-
+- [使用文档](./doc/use/README.md)
+- [二次开发文档](./doc/dev/README.md)
 ## Q&A
 
 https://github.com/cnrnews/fast-cache/issues
