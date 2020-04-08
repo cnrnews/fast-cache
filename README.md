@@ -5,6 +5,8 @@
 特色(推广的一些亮点)
 ## 安装下载
 
+- 下载  https://github.com/cnrnews/fast-cache/releases 
+
 ## 使用
 
 - 使用文档
