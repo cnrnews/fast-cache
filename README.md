@@ -8,7 +8,9 @@
 ## 使用
 
 - 使用文档
+* [如何使用](./doc/use/README.md)
 - 二次开发文档
+* [二次开发](./doc/dev/README.md)
 
 ## Q&A
 
